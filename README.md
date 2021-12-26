@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on: good project.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: "Not now!".
-- 📫 How to reach me:twitter- @marrinette https://twitter.com/new_developer8
+- 📫 How to reach me:twitter- [marrinette 🐞](https://mobile.twitter.com/marrinette_chng)
 - 😄 Pronouns: she
 - ⚡ Fun fact:it's secret!
