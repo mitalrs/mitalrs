@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mital Sapkale</h1>
 <h3 align="center">A passionate frontend development, new things!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitalrs&label=Profile%20views&color=0e75b6&style=flat" alt="mitalrs" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mitalrs&label=Profile%20views&color=0e75b6&style=flat" alt="mitalrs" /> </p>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 
 - 🔭 I’m currently working on **FrontEnd**
