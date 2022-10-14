@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help **Work on API**
 
-- 💬 Ask me about **css,Js,Git,Linux**
+- 💬 Ask me about **css,Js,Git,Linux,Java**
 
 - 😄 Pronouns **she/her**
 
