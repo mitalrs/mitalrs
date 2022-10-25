@@ -36,3 +36,7 @@
 <br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mitalrs)
+
+<br>
+
+![@mital's Holopin board](https://holopin.me/mital)
