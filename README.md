@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**.
 
-- 🤝 I’m looking for help **FronEnd, BackEnd, JavaScrip, Git, Linux, Java, Vue, and MongoDB**
+- 🤝 I’m looking for help **working on API**
 
-- 💬 Ask me about **css,Js,Git,Linux,Java**
+- 💬 Ask me about **FronEnd, BackEnd, JavaScrip, Git, Linux, Java, Vue, and MongoDB**.
 
 - 😄 Pronouns **she/her**!
 
