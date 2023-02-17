@@ -73,6 +73,8 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/mitalrs/ToDo-List-backend/issues/1) in [mitalrs/ToDo-List-backend](https://github.com/mitalrs/ToDo-List-backend)
+2. ❗️ Opened issue [#1](https://github.com/mitalrs/ToDo-List-backend/issues/1) in [mitalrs/ToDo-List-backend](https://github.com/mitalrs/ToDo-List-backend)
 <!--END_SECTION:activity-->
   
  
