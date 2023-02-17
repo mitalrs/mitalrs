@@ -56,7 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitalrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mitalrs&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=mitalrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=mitalrs&custom_title=Mital's%20Activity%20Graph&theme=chartreuse-dark&hide_border=false)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=mitalrs&custom_title=Mital's%20Activity%20Graph&theme=chartreuse-dark&hide_border=false)<br/>
 
 
 <br>
