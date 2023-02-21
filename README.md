@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/marrinette_chng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marrinette_chng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mital sapkale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mital sapkale" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mitalsapkale1999" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226" alt="@mitalsapkale1999" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/mitalsapkale1999?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226" alt="@mitalsapkale1999" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/mitalrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mitalrs" height="30" width="40" /></a>
  <a href="https://dev.to/mitalrs" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="mitalrs" height="30" width="40" /></a>
 </p>
