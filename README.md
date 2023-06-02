@@ -98,8 +98,8 @@ Linux                    14 mins             ███████████�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mitalrs/ToDo-List-backend/issues/1) in [mitalrs/ToDo-List-backend](https://github.com/mitalrs/ToDo-List-backend)
-2. ❗️ Opened issue [#1](https://github.com/mitalrs/ToDo-List-backend/issues/1) in [mitalrs/ToDo-List-backend](https://github.com/mitalrs/ToDo-List-backend)
+1. 🎉 Merged PR [#2](https://github.com/Team9-CoLab/WiseWardrobe/pull/2) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
+2. 💪 Opened PR [#2](https://github.com/Team9-CoLab/WiseWardrobe/pull/2) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
 <!--END_SECTION:activity-->
   
  
