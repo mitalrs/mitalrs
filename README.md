@@ -95,8 +95,8 @@ Linux                    0 secs              ███████████�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Team9-CoLab/WiseWardrobe/pull/2) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
-2. 💪 Opened PR [#2](https://github.com/Team9-CoLab/WiseWardrobe/pull/2) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
+1. 🎉 Merged PR [#3](https://github.com/Team9-CoLab/WiseWardrobe/pull/3) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
+2. 💪 Opened PR [#3](https://github.com/Team9-CoLab/WiseWardrobe/pull/3) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
 <!--END_SECTION:activity-->
   
  
