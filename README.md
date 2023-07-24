@@ -78,20 +78,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TSConfig                 8 mins              ██████████████░░░░░░░░░░░   57.06 % 
+TypeScript               6 mins              ███████████░░░░░░░░░░░░░░   42.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chat-bot                 14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/07/2023 23:31:58 UTC
+ Last Updated on 24/07/2023 23:32:05 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
