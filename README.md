@@ -78,21 +78,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 mins              ██████████████████░░░░░░░   70.59 % 
-Markdown                 0 secs              ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-leetcode                 3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/08/2023 23:31:43 UTC
+ Last Updated on 07/08/2023 23:31:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
