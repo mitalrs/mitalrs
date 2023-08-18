@@ -70,7 +70,7 @@
   
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%207%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -78,20 +78,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sfa-user-ui-main         8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/08/2023 23:31:52 UTC
+ Last Updated on 18/08/2023 23:31:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
