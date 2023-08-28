@@ -78,20 +78,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               35 mins             █████████████████████████   98.31 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sfa-user-ui-main         35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/08/2023 23:32:05 UTC
+ Last Updated on 28/08/2023 23:41:10 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
