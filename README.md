@@ -78,20 +78,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     14 mins             ████████████████████░░░░░   80.63 % 
+JavaScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+frappe-bench             17 mins             █████████████████████████   98.94 % 
+nextai                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/09/2023 23:31:54 UTC
+ Last Updated on 07/09/2023 23:31:48 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
