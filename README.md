@@ -70,7 +70,7 @@
   
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -78,7 +78,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 22 mins       ████████████████░░░░░░░░░   63.98 % 
+JavaScript               4 hrs 22 mins       ████████████████░░░░░░░░░   63.99 % 
 Python                   1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
 JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 GDScript3                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
@@ -97,7 +97,7 @@ Linux                    6 hrs 51 mins       ███████████�
 ```
 
 
- Last Updated on 27/09/2023 23:31:50 UTC
+ Last Updated on 28/09/2023 23:32:13 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
