@@ -95,8 +95,8 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Team9-CoLab/WiseWardrobe/pull/3) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
-2. 💪 Opened PR [#3](https://github.com/Team9-CoLab/WiseWardrobe/pull/3) in [Team9-CoLab/WiseWardrobe](https://github.com/Team9-CoLab/WiseWardrobe)
+1. 🎉 Merged PR [#19](https://github.com/samyakbardiya/trex/pull/19) in [samyakbardiya/trex](https://github.com/samyakbardiya/trex)
+2. 💪 Opened PR [#18](https://github.com/samyakbardiya/trex/pull/18) in [samyakbardiya/trex](https://github.com/samyakbardiya/trex)
 <!--END_SECTION:activity-->
   
  
